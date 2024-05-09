@@ -1,3 +1,5 @@
+![logo](https://github.com/saida-taien/Saida-Islam-Taien/blob/main/Saida%20Islam%20Taien.png)
+
 <h1 align="center">Hi 👋, I'm Saida Islam Taien</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
